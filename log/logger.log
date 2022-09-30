@@ -1,0 +1,471 @@
+2022-09-30 09:22:32,236 base_page.py INFO base_page open 访问网址
+2022-09-30 09:22:36,738 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 09:22:36,738 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 09:22:38,988 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 09:22:38,989 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 09:22:41,101 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 09:22:41,101 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 09:22:46,247 base_page.py INFO base_page open 访问网址
+2022-09-30 09:39:26,949 base_page.py INFO base_page open 访问网址
+2022-09-30 09:39:30,774 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 09:39:30,774 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 09:39:32,992 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 09:39:32,992 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 09:39:35,103 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 09:39:35,103 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 09:39:40,234 base_page.py INFO base_page click 正在点击{'xpath', '//*[@id="root"]/section/main/div/aside/div/ul/li[3]/div/span'}元素
+2022-09-30 09:39:40,234 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="root"]/section/main/div/aside/div/ul/li[3]/div/span'}元素
+2022-09-30 09:39:40,514 base_page.py INFO base_page click 正在点击{'xpath', '//*[@id="rc-menu-uuid-04356-1-meeting_menu-popup"]/li[5]/span/span'}元素
+2022-09-30 09:39:40,514 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="rc-menu-uuid-04356-1-meeting_menu-popup"]/li[5]/span/span'}元素
+2022-09-30 09:43:25,958 base_page.py INFO base_page open 访问网址
+2022-09-30 09:43:29,925 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 09:43:29,926 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 09:43:32,156 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 09:43:32,156 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 09:43:34,253 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 09:43:34,253 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 09:43:39,366 base_page.py INFO base_page click 正在点击{'//*[@id="root"]/section/main/div/aside/div/ul/li[3]/div/span', 'xpath'}元素
+2022-09-30 09:43:39,366 base_page.py INFO base_page locator 正在定位{'//*[@id="root"]/section/main/div/aside/div/ul/li[3]/div/span', 'xpath'}元素
+2022-09-30 09:54:34,670 base_page.py INFO base_page open 访问网址
+2022-09-30 09:54:38,696 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 09:54:38,696 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 09:54:40,907 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 09:54:40,907 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 09:54:43,013 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 09:54:43,014 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 09:54:48,133 base_page.py INFO base_page click 正在点击{'xpath', '//*[@id="root"]/section/main/div/aside/div/ul/li[3]/div/span'}元素
+2022-09-30 09:54:48,134 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="root"]/section/main/div/aside/div/ul/li[3]/div/span'}元素
+2022-09-30 09:54:51,302 base_page.py INFO base_page click 正在点击{'xpath', '//*[@id="rc-menu-uuid-91243-1-meeting_menu-popup"]/li[5]/span'}元素
+2022-09-30 09:54:51,302 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="rc-menu-uuid-91243-1-meeting_menu-popup"]/li[5]/span'}元素
+2022-09-30 09:59:15,397 base_page.py INFO base_page open 访问网址
+2022-09-30 09:59:19,093 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 09:59:19,093 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 09:59:21,296 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 09:59:21,297 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 09:59:23,399 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 09:59:23,399 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 09:59:28,523 base_page.py INFO base_page click 正在点击{'//*[@id="root"]/section/main/div/aside/div/ul/li[3]/div/span', 'xpath'}元素
+2022-09-30 09:59:28,523 base_page.py INFO base_page locator 正在定位{'//*[@id="root"]/section/main/div/aside/div/ul/li[3]/div/span', 'xpath'}元素
+2022-09-30 10:00:33,181 base_page.py INFO base_page open 访问网址
+2022-09-30 10:00:37,176 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 10:00:37,176 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 10:00:39,385 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 10:00:39,385 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 10:00:41,490 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:00:41,490 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:00:46,592 base_page.py INFO base_page click 正在点击{'//*[@id="rc-menu-uuid-32299-1-meeting_menu-popup"]/li[6]/span/span', 'xpath'}元素
+2022-09-30 10:00:46,592 base_page.py INFO base_page locator 正在定位{'//*[@id="rc-menu-uuid-32299-1-meeting_menu-popup"]/li[6]/span/span', 'xpath'}元素
+2022-09-30 10:02:22,500 base_page.py INFO base_page open 访问网址
+2022-09-30 10:02:26,287 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 10:02:26,287 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 10:02:28,481 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 10:02:28,481 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 10:02:30,577 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:02:30,577 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:02:35,752 base_page.py INFO base_page click 正在点击{'xpath', '//*[@id="rc-menu-uuid-32299-1-meeting_menu-popup"]/li[6]/span/span'}元素
+2022-09-30 10:02:35,752 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="rc-menu-uuid-32299-1-meeting_menu-popup"]/li[6]/span/span'}元素
+2022-09-30 10:11:24,527 base_page.py INFO base_page open 访问网址
+2022-09-30 10:11:28,442 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 10:11:28,442 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 10:11:30,662 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 10:11:30,663 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 10:11:32,764 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:11:32,764 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:11:37,871 base_page.py INFO base_page open 访问网址
+2022-09-30 10:11:42,426 base_page.py INFO base_page click 正在点击{'//*[@id="rc-menu-uuid-32299-1-meeting_menu-popup"]/li[6]/span/span', 'xpath'}元素
+2022-09-30 10:11:42,426 base_page.py INFO base_page locator 正在定位{'//*[@id="rc-menu-uuid-32299-1-meeting_menu-popup"]/li[6]/span/span', 'xpath'}元素
+2022-09-30 10:13:06,887 base_page.py INFO base_page open 访问网址
+2022-09-30 10:13:10,547 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 10:13:10,548 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 10:13:12,764 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 10:13:12,764 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 10:13:14,866 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:13:14,867 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:13:20,137 base_page.py INFO base_page open 访问网址
+2022-09-30 10:13:24,812 base_page.py INFO base_page click 正在点击{'xpath', '/html/body/div[1]/section/main/div/aside/div/ul/li[3]/div/span'}元素
+2022-09-30 10:13:24,812 base_page.py INFO base_page locator 正在定位{'xpath', '/html/body/div[1]/section/main/div/aside/div/ul/li[3]/div/span'}元素
+2022-09-30 10:13:27,955 base_page.py INFO base_page click 正在点击{'xpath', '/html/body/div[1]/section/main/div/aside/div/ul/li[3]/ul/li[6]/span'}元素
+2022-09-30 10:13:27,955 base_page.py INFO base_page locator 正在定位{'xpath', '/html/body/div[1]/section/main/div/aside/div/ul/li[3]/ul/li[6]/span'}元素
+2022-09-30 10:13:28,169 base_page.py INFO base_page click 正在点击{'xpath', '//*[@id="drag-content"]/section/main/div/div/div/div/div[2]/div/div/span[1]/button/span'}元素
+2022-09-30 10:13:28,169 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="drag-content"]/section/main/div/div/div/div/div[2]/div/div/span[1]/button/span'}元素
+2022-09-30 10:15:15,687 base_page.py INFO base_page open 访问网址
+2022-09-30 10:15:19,461 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 10:15:19,461 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 10:15:21,680 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 10:15:21,680 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 10:15:23,786 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:15:23,787 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:15:28,964 base_page.py INFO base_page open 访问网址
+2022-09-30 10:15:33,830 base_page.py INFO base_page click 正在点击{'xpath', '/html/body/div[1]/section/main/div/aside/div/ul/li[3]/div/span'}元素
+2022-09-30 10:15:33,830 base_page.py INFO base_page locator 正在定位{'xpath', '/html/body/div[1]/section/main/div/aside/div/ul/li[3]/div/span'}元素
+2022-09-30 10:15:36,973 base_page.py INFO base_page click 正在点击{'xpath', '//*[@id="rc-menu-uuid-53697-1-meeting_menu-popup"]/li[5]'}元素
+2022-09-30 10:15:36,973 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="rc-menu-uuid-53697-1-meeting_menu-popup"]/li[5]'}元素
+2022-09-30 10:17:40,709 base_page.py INFO base_page open 访问网址
+2022-09-30 10:17:44,767 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 10:17:44,767 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 10:17:46,979 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 10:17:46,979 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 10:17:49,070 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:17:49,071 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:17:54,279 base_page.py INFO base_page open 访问网址
+2022-09-30 10:17:58,932 base_page.py INFO base_page click 正在点击{'/html/body/div[1]/section/main/div/aside/div/ul/li[3]/div/span', 'xpath'}元素
+2022-09-30 10:17:58,932 base_page.py INFO base_page locator 正在定位{'/html/body/div[1]/section/main/div/aside/div/ul/li[3]/div/span', 'xpath'}元素
+2022-09-30 10:24:32,663 base_page.py INFO base_page open 访问网址
+2022-09-30 10:24:36,884 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 10:24:36,885 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 10:24:39,092 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 10:24:39,092 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 10:24:41,199 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:24:41,199 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:24:46,344 base_page.py INFO base_page open 访问网址
+2022-09-30 10:24:48,210 base_page.py INFO base_page click 正在点击{'//*[@id="root"]/section/main/div/aside/div/ul/li[3]', 'xpath'}元素
+2022-09-30 10:24:48,210 base_page.py INFO base_page locator 正在定位{'//*[@id="root"]/section/main/div/aside/div/ul/li[3]', 'xpath'}元素
+2022-09-30 10:25:41,527 base_page.py INFO base_page open 访问网址
+2022-09-30 10:25:45,317 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 10:25:45,317 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 10:25:47,510 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 10:25:47,511 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 10:25:49,608 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:25:49,608 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:25:54,711 base_page.py INFO base_page click 正在点击{'xpath', '//*[@id="root"]/section/main/div/aside/div/ul/li[3]'}元素
+2022-09-30 10:25:54,711 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="root"]/section/main/div/aside/div/ul/li[3]'}元素
+2022-09-30 10:25:57,859 base_page.py INFO base_page click 正在点击{'xpath', '//*[@id="rc-menu-uuid-03747-1-meeting_menu-popup"]/li[5]'}元素
+2022-09-30 10:25:57,859 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="rc-menu-uuid-03747-1-meeting_menu-popup"]/li[5]'}元素
+2022-09-30 10:27:37,505 base_page.py INFO base_page open 访问网址
+2022-09-30 10:27:41,139 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 10:27:41,148 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 10:27:43,347 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 10:27:43,347 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 10:27:45,452 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:27:45,453 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:27:50,867 base_page.py INFO base_page click 正在点击{'xpath', '//*[@id="root"]/section/main/div/aside/div/ul/li[3]'}元素
+2022-09-30 10:27:50,867 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="root"]/section/main/div/aside/div/ul/li[3]'}元素
+2022-09-30 10:27:54,166 base_page.py INFO base_page click 正在点击{'//*[@id="rc-menu-uuid-37615-1-meeting_menu-popup"]/li[5]', 'xpath'}元素
+2022-09-30 10:27:54,167 base_page.py INFO base_page locator 正在定位{'//*[@id="rc-menu-uuid-37615-1-meeting_menu-popup"]/li[5]', 'xpath'}元素
+2022-09-30 10:37:36,750 base_page.py INFO base_page open 访问网址
+2022-09-30 10:37:40,679 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 10:37:40,679 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 10:37:42,904 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 10:37:42,905 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 10:37:45,008 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:37:45,008 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:37:50,131 base_page.py INFO base_page click 正在点击{'xpath', '//*[@id="root"]/section/main/div/aside/div/ul/li[3]'}元素
+2022-09-30 10:37:50,131 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="root"]/section/main/div/aside/div/ul/li[3]'}元素
+2022-09-30 10:37:53,267 base_page.py INFO base_page click 正在点击{'/html/body/div[1]/section/main/div/aside/div/ul/li[3]/ul/li[5]', 'xpath'}元素
+2022-09-30 10:37:53,267 base_page.py INFO base_page locator 正在定位{'/html/body/div[1]/section/main/div/aside/div/ul/li[3]/ul/li[5]', 'xpath'}元素
+2022-09-30 10:44:42,039 base_page.py INFO base_page open 访问网址
+2022-09-30 10:44:45,860 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 10:44:45,860 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 10:44:48,097 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 10:44:48,098 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 10:44:50,204 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:44:50,204 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:44:55,322 base_page.py INFO base_page click 正在点击{'xpath', '//*[@id="root"]/section/main/div/aside/div/ul/li[3]'}元素
+2022-09-30 10:44:55,322 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="root"]/section/main/div/aside/div/ul/li[3]'}元素
+2022-09-30 10:44:58,521 base_page.py INFO base_page click 正在点击{'xpath', '/html/body/div[1]/section/main/div/aside/div/ul/li[3]/ul/li[5]/span'}元素
+2022-09-30 10:44:58,522 base_page.py INFO base_page locator 正在定位{'xpath', '/html/body/div[1]/section/main/div/aside/div/ul/li[3]/ul/li[5]/span'}元素
+2022-09-30 10:44:58,774 base_page.py INFO base_page click 正在点击{'//*[@id="drag-content"]/section/main/div/div/div/div/div[2]/div/div/span[1]/button', 'xpath'}元素
+2022-09-30 10:44:58,774 base_page.py INFO base_page locator 正在定位{'//*[@id="drag-content"]/section/main/div/div/div/div/div[2]/div/div/span[1]/button', 'xpath'}元素
+2022-09-30 10:45:50,880 base_page.py INFO base_page open 访问网址
+2022-09-30 10:45:55,508 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 10:45:55,509 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 10:45:57,750 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 10:45:57,751 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 10:45:59,837 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:45:59,837 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:46:04,937 base_page.py INFO base_page click 正在点击{'//*[@id="root"]/section/main/div/aside/div/ul/li[3]', 'xpath'}元素
+2022-09-30 10:46:04,937 base_page.py INFO base_page locator 正在定位{'//*[@id="root"]/section/main/div/aside/div/ul/li[3]', 'xpath'}元素
+2022-09-30 10:46:25,775 base_page.py INFO base_page open 访问网址
+2022-09-30 10:46:31,070 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 10:46:31,070 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 10:46:33,283 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 10:46:33,283 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 10:46:35,379 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:46:35,379 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:46:40,471 base_page.py INFO base_page click 正在点击{'//*[@id="root"]/section/main/div/aside/div/ul/li[3]', 'xpath'}元素
+2022-09-30 10:46:40,471 base_page.py INFO base_page locator 正在定位{'//*[@id="root"]/section/main/div/aside/div/ul/li[3]', 'xpath'}元素
+2022-09-30 10:47:08,715 base_page.py INFO base_page open 访问网址
+2022-09-30 10:47:12,463 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 10:47:12,463 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 10:47:14,685 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 10:47:14,685 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 10:47:16,788 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:47:16,788 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:47:21,965 base_page.py INFO base_page click 正在点击{'//*[@id="root"]/section/main/div/aside/div/ul/li[3]', 'xpath'}元素
+2022-09-30 10:47:21,965 base_page.py INFO base_page locator 正在定位{'//*[@id="root"]/section/main/div/aside/div/ul/li[3]', 'xpath'}元素
+2022-09-30 10:47:46,860 base_page.py INFO base_page open 访问网址
+2022-09-30 10:47:50,530 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 10:47:50,530 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 10:47:52,740 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 10:47:52,740 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 10:47:54,841 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:47:54,841 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:48:02,939 base_page.py INFO base_page click 正在点击{'//*[@id="root"]/section/main/div/aside/div/ul/li[3]', 'xpath'}元素
+2022-09-30 10:48:02,939 base_page.py INFO base_page locator 正在定位{'//*[@id="root"]/section/main/div/aside/div/ul/li[3]', 'xpath'}元素
+2022-09-30 10:49:41,033 base_page.py INFO base_page open 访问网址
+2022-09-30 10:49:44,924 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 10:49:44,924 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 10:49:47,157 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 10:49:47,158 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 10:49:49,252 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:49:49,253 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:49:57,562 base_page.py INFO base_page click 正在点击{'xpath', '/html/body/div[1]/section/main/div/aside/div/ul/li[3]/div/span'}元素
+2022-09-30 10:49:57,563 base_page.py INFO base_page locator 正在定位{'xpath', '/html/body/div[1]/section/main/div/aside/div/ul/li[3]/div/span'}元素
+2022-09-30 10:50:00,692 base_page.py INFO base_page click 正在点击{'xpath', '/html/body/div[1]/section/main/div/aside/div/ul/li[3]/ul/li[5]/span'}元素
+2022-09-30 10:50:00,693 base_page.py INFO base_page locator 正在定位{'xpath', '/html/body/div[1]/section/main/div/aside/div/ul/li[3]/ul/li[5]/span'}元素
+2022-09-30 10:50:03,909 base_page.py INFO base_page click 正在点击{'xpath', '//*[@id="drag-content"]/section/main/div/div/div/div/div[2]/div/div/span[1]/button'}元素
+2022-09-30 10:50:03,909 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="drag-content"]/section/main/div/div/div/div/div[2]/div/div/span[1]/button'}元素
+2022-09-30 10:50:04,082 base_page.py INFO base_page input_ 正在定位{'xpath', '//*[@id="name"]'}元素， 输入ui自动化内容
+2022-09-30 10:50:04,082 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="name"]'}元素
+2022-09-30 10:50:06,267 base_page.py INFO base_page click 正在点击{'/html/body/div[11]/div/div[2]/div/div/div[2]/div[2]/span[2]/button', 'xpath'}元素
+2022-09-30 10:50:06,267 base_page.py INFO base_page locator 正在定位{'/html/body/div[11]/div/div[2]/div/div/div[2]/div[2]/span[2]/button', 'xpath'}元素
+2022-09-30 10:53:13,679 base_page.py INFO base_page open 访问网址
+2022-09-30 10:53:17,390 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 10:53:17,390 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 10:53:19,610 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 10:53:19,610 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 10:53:21,709 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:53:21,709 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 10:53:29,843 base_page.py INFO base_page click 正在点击{'xpath', '/html/body/div[1]/section/main/div/aside/div/ul/li[3]/div/span'}元素
+2022-09-30 10:53:29,843 base_page.py INFO base_page locator 正在定位{'xpath', '/html/body/div[1]/section/main/div/aside/div/ul/li[3]/div/span'}元素
+2022-09-30 10:53:32,975 base_page.py INFO base_page click 正在点击{'xpath', '/html/body/div[1]/section/main/div/aside/div/ul/li[3]/ul/li[5]/span'}元素
+2022-09-30 10:53:32,976 base_page.py INFO base_page locator 正在定位{'xpath', '/html/body/div[1]/section/main/div/aside/div/ul/li[3]/ul/li[5]/span'}元素
+2022-09-30 10:53:36,204 base_page.py INFO base_page click 正在点击{'xpath', '//*[@id="drag-content"]/section/main/div/div/div/div/div[2]/div/div/span[1]/button'}元素
+2022-09-30 10:53:36,205 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="drag-content"]/section/main/div/div/div/div/div[2]/div/div/span[1]/button'}元素
+2022-09-30 10:53:36,380 base_page.py INFO base_page input_ 正在定位{'xpath', '//*[@id="name"]'}元素， 输入ui自动化内容
+2022-09-30 10:53:36,380 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="name"]'}元素
+2022-09-30 10:53:38,578 base_page.py INFO base_page click 正在点击{'xpath', '/html/body/div[11]/div/div[2]/div/div/div[2]/div[2]/span[2]/button'}元素
+2022-09-30 10:53:38,578 base_page.py INFO base_page locator 正在定位{'xpath', '/html/body/div[11]/div/div[2]/div/div/div[2]/div[2]/span[2]/button'}元素
+2022-09-30 11:35:48,079 base_page.py INFO base_page open 访问网址
+2022-09-30 11:37:32,675 base_page.py INFO base_page open 访问网址
+2022-09-30 11:49:08,723 base_page.py INFO base_page open 访问网址
+2022-09-30 11:50:03,536 base_page.py INFO base_page open 访问网址
+2022-09-30 11:52:38,729 base_page.py INFO base_page open 访问网址
+2022-09-30 11:55:14,467 base_page.py INFO base_page open 访问网址
+2022-09-30 11:56:00,553 base_page.py INFO base_page open 访问网址
+2022-09-30 11:58:37,440 base_page.py INFO base_page open 访问网址
+2022-09-30 11:59:48,444 base_page.py INFO base_page open 访问网址
+2022-09-30 12:00:22,401 base_page.py INFO base_page open 访问网址
+2022-09-30 12:01:01,762 base_page.py INFO base_page open 访问网址
+2022-09-30 12:03:07,083 base_page.py INFO base_page open 访问网址
+2022-09-30 12:04:06,490 base_page.py INFO base_page open 访问网址
+2022-09-30 14:47:35,296 base_page.py INFO base_page open 访问网址
+2022-09-30 14:48:03,604 base_page.py INFO base_page open 访问网址
+2022-09-30 14:51:07,176 base_page.py INFO base_page open 访问网址
+2022-09-30 14:51:15,940 base_page.py INFO base_page locator 正在定位{'//*[@id="jsApp"]/header/header/nav/div[2]/div[3]/div/img', 'xpath'}元素
+2022-09-30 14:52:32,018 base_page.py INFO base_page open 访问网址
+2022-09-30 14:52:37,644 base_page.py INFO base_page click 正在点击{'//*[@id="jsApp"]/header/header/nav/div[2]/div[3]/div/img', 'xpath'}元素
+2022-09-30 14:52:37,645 base_page.py INFO base_page locator 正在定位{'//*[@id="jsApp"]/header/header/nav/div[2]/div[3]/div/img', 'xpath'}元素
+2022-09-30 14:53:41,594 base_page.py INFO base_page open 访问网址
+2022-09-30 14:53:47,945 base_page.py INFO base_page click 正在点击{'xpath', '//*[@id="jsApp"]/header/header/nav/div[2]/div[3]'}元素
+2022-09-30 14:53:47,946 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="jsApp"]/header/header/nav/div[2]/div[3]'}元素
+2022-09-30 14:54:30,693 base_page.py INFO base_page open 访问网址
+2022-09-30 14:54:38,111 base_page.py INFO base_page locator 正在定位{'//*[@id="jsApp"]/header/header/nav/div[2]/div[3]', 'xpath'}元素
+2022-09-30 14:55:06,631 base_page.py INFO base_page open 访问网址
+2022-09-30 15:01:01,794 base_page.py INFO base_page open 访问网址
+2022-09-30 15:01:07,947 base_page.py INFO base_page locator 正在定位{'//*[@id="s-usersetting-top"]', 'xpath'}元素
+2022-09-30 15:03:30,553 base_page.py INFO base_page open 访问网址
+2022-09-30 15:03:36,229 base_page.py INFO base_page locator 正在定位{'//*[@id="s-usersetting-top"]', 'xpath'}元素
+2022-09-30 15:05:06,644 base_page.py INFO base_page open 访问网址
+2022-09-30 15:05:11,240 base_page.py INFO base_page locator 正在定位{'/html/body/div[1]/div[1]/div[4]/span', 'xpath'}元素
+2022-09-30 15:05:22,958 base_page.py INFO base_page open 访问网址
+2022-09-30 15:06:52,032 base_page.py INFO base_page open 访问网址
+2022-09-30 15:06:57,038 base_page.py INFO base_page click 正在点击{'/html/body/div[1]/div[1]/div[4]/span', 'xpath'}元素
+2022-09-30 15:06:57,039 base_page.py INFO base_page locator 正在定位{'/html/body/div[1]/div[1]/div[4]/span', 'xpath'}元素
+2022-09-30 15:08:17,154 base_page.py INFO base_page open 访问网址
+2022-09-30 15:08:44,163 base_page.py INFO base_page open 访问网址
+2022-09-30 15:08:50,721 base_page.py INFO base_page click 正在点击{'xpath', '//*[@id="jsApp"]/header/header/nav/div[2]/div[3]'}元素
+2022-09-30 15:08:50,722 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="jsApp"]/header/header/nav/div[2]/div[3]'}元素
+2022-09-30 15:09:18,273 base_page.py INFO base_page open 访问网址
+2022-09-30 15:09:37,852 base_page.py INFO base_page open 访问网址
+2022-09-30 15:09:43,701 base_page.py INFO base_page click 正在点击{'xpath', '//*[@id="jsApp"]/header/header/nav/div[2]/div[3]'}元素
+2022-09-30 15:09:43,702 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="jsApp"]/header/header/nav/div[2]/div[3]'}元素
+2022-09-30 15:12:01,582 base_page.py INFO base_page open 访问网址
+2022-09-30 15:16:07,135 base_page.py INFO base_page open 访问网址
+2022-09-30 15:17:13,914 base_page.py INFO base_page open 访问网址
+2022-09-30 15:17:20,108 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="jsApp"]/header/header/nav/div[2]/div[3]'}元素
+2022-09-30 15:17:50,123 base_page.py INFO base_page open 访问网址
+2022-09-30 15:17:57,388 base_page.py INFO base_page locator 正在定位{'//*[@id="jsApp"]/header/header/nav/div[2]/div[3]', 'xpath'}元素
+2022-09-30 15:22:22,593 base_page.py INFO base_page open 访问网址
+2022-09-30 15:22:27,104 base_page.py INFO base_page locator 正在定位{'partial link text', '设置'}元素
+2022-09-30 15:23:02,070 base_page.py INFO base_page open 访问网址
+2022-09-30 15:23:06,428 base_page.py INFO base_page locator 正在定位{'link text', '设置'}元素
+2022-09-30 15:23:53,411 base_page.py INFO base_page open 访问网址
+2022-09-30 15:25:17,917 base_page.py INFO base_page open 访问网址
+2022-09-30 15:25:23,816 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="jsApp"]/header/header/nav/div[2]/div[3]'}元素
+2022-09-30 15:25:32,847 base_page.py INFO base_page open 访问网址
+2022-09-30 15:25:40,033 base_page.py INFO base_page locator 正在定位{'//*[@id="jsApp"]/header/header/nav/div[2]/div[3]', 'xpath'}元素
+2022-09-30 15:27:09,136 base_page.py INFO base_page open 访问网址
+2022-09-30 15:27:37,287 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="jsApp"]/header/header/nav/div[2]/div[3]'}元素
+2022-09-30 15:28:56,610 base_page.py INFO base_page open 访问网址
+2022-09-30 15:29:02,863 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="jsApp"]/header/header/nav/div[2]/div[3]'}元素
+2022-09-30 15:31:41,361 base_page.py INFO base_page open 访问网址
+2022-09-30 15:31:46,940 base_page.py INFO base_page locator 正在定位{'//*[@id="jsApp"]/header/header/nav/div[2]/div[3]', 'xpath'}元素
+2022-09-30 15:32:22,575 base_page.py INFO base_page open 访问网址
+2022-09-30 15:32:30,310 base_page.py INFO base_page locator 正在定位{'//*[@id="jsApp"]/header/header/nav/div[2]/div[3]', 'xpath'}元素
+2022-09-30 15:33:37,739 base_page.py INFO base_page open 访问网址
+2022-09-30 15:33:46,767 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="jsApp"]/header/header/nav/div[2]/div[3]'}元素
+2022-09-30 15:34:07,319 base_page.py INFO base_page open 访问网址
+2022-09-30 15:34:14,383 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="jsApp"]/header/header/nav/div[2]/div[3]'}元素
+2022-09-30 15:35:09,544 base_page.py INFO base_page open 访问网址
+2022-09-30 15:35:25,938 base_page.py INFO base_page locator 正在定位{'//*[@id="jsApp"]/header/header/nav/div[2]/div[3]', 'xpath'}元素
+2022-09-30 15:38:01,434 base_page.py INFO base_page open 访问网址
+2022-09-30 15:38:15,109 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="jsApp"]/header/header/nav/div[2]/div[3]'}元素
+2022-09-30 16:07:27,064 base_page.py INFO base_page open 访问网址
+2022-09-30 16:07:34,148 base_page.py INFO base_page locator 正在定位{'//*[@id="jsApp"]/header/header/nav/div[2]/div[3]', 'xpath'}元素
+2022-09-30 16:08:13,794 base_page.py INFO base_page open 访问网址
+2022-09-30 16:08:19,620 base_page.py INFO base_page locator 正在定位{'//*[@id="jsApp"]/header/header/nav/div[2]/div[3]', 'xpath'}元素
+2022-09-30 16:08:51,366 base_page.py INFO base_page open 访问网址
+2022-09-30 16:08:58,275 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="jsApp"]/header/header/nav/div[2]/div[3]'}元素
+2022-09-30 16:09:26,037 base_page.py INFO base_page open 访问网址
+2022-09-30 16:09:32,391 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="jsApp"]/header/header/nav/div[2]/div[3]'}元素
+2022-09-30 16:42:30,307 base_page.py INFO base_page open 访问网址
+2022-09-30 16:43:04,191 base_page.py INFO base_page open 访问网址
+2022-09-30 16:43:08,094 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="jsApp"]/header/header/nav/div[2]/div[3]'}元素
+2022-09-30 16:44:05,344 base_page.py INFO base_page open 访问网址
+2022-09-30 17:33:24,404 base_page.py INFO base_page open 访问网址
+2022-09-30 17:33:28,293 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 17:33:28,293 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 17:33:30,530 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 17:33:30,530 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 17:33:32,629 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 17:33:32,629 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 17:35:19,413 base_page.py INFO base_page open 访问网址
+2022-09-30 17:35:23,023 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 17:35:23,025 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 17:35:25,242 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 17:35:25,243 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 17:35:27,329 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 17:35:27,330 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 17:36:34,635 base_page.py INFO base_page open 访问网址
+2022-09-30 17:36:37,819 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 17:36:37,819 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 17:36:40,058 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 17:36:40,058 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 17:36:42,148 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 17:36:42,149 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 17:36:56,657 base_page.py INFO base_page open 访问网址
+2022-09-30 17:36:59,714 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 17:36:59,714 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 17:37:02,098 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 17:37:02,098 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 17:37:04,206 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 17:37:04,207 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 17:39:04,213 base_page.py INFO base_page open 访问网址
+2022-09-30 17:39:07,240 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 17:39:07,240 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 17:39:09,444 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 17:39:09,444 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 17:39:11,544 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 17:39:11,544 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 17:39:19,660 base_page.py INFO base_page click 正在点击{'xpath', '/html/body/div[1]/section/main/div/aside/div/ul/li[3]/div/span'}元素
+2022-09-30 17:39:19,661 base_page.py INFO base_page locator 正在定位{'xpath', '/html/body/div[1]/section/main/div/aside/div/ul/li[3]/div/span'}元素
+2022-09-30 17:39:22,810 base_page.py INFO base_page click 正在点击{'xpath', '/html/body/div[1]/section/main/div/aside/div/ul/li[3]/ul/li[5]/span'}元素
+2022-09-30 17:39:22,811 base_page.py INFO base_page locator 正在定位{'xpath', '/html/body/div[1]/section/main/div/aside/div/ul/li[3]/ul/li[5]/span'}元素
+2022-09-30 17:39:26,009 base_page.py INFO base_page click 正在点击{'xpath', '//*[@id="drag-content"]/section/main/div/div/div/div/div[2]/div/div/span[1]/button'}元素
+2022-09-30 17:39:26,011 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="drag-content"]/section/main/div/div/div/div/div[2]/div/div/span[1]/button'}元素
+2022-09-30 17:39:26,205 base_page.py INFO base_page input_ 正在定位{'xpath', '//*[@id="name"]'}元素， 输入test内容
+2022-09-30 17:39:26,205 base_page.py INFO base_page locator 正在定位{'xpath', '//*[@id="name"]'}元素
+2022-09-30 17:39:28,395 base_page.py INFO base_page click 正在点击{'xpath', '/html/body/div[11]/div/div[2]/div/div/div[2]/div[2]/span[2]/button'}元素
+2022-09-30 17:39:28,395 base_page.py INFO base_page locator 正在定位{'xpath', '/html/body/div[11]/div/div[2]/div/div/div[2]/div[2]/span[2]/button'}元素
+2022-09-30 18:42:34,896 base_page.py INFO base_page open 访问网址
+2022-09-30 18:42:37,814 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 18:42:37,815 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 18:42:40,038 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 18:42:40,038 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 18:42:42,138 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 18:42:42,138 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 18:42:50,436 base_page.py INFO base_page click 正在点击{'/html/body/div[1]/section/main/div/aside/div/ul/li[3]/div/span', 'xpath'}元素
+2022-09-30 18:42:50,436 base_page.py INFO base_page locator 正在定位{'/html/body/div[1]/section/main/div/aside/div/ul/li[3]/div/span', 'xpath'}元素
+2022-09-30 18:42:58,029 base_page.py INFO base_page open 访问网址
+2022-09-30 18:43:00,778 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 18:43:00,778 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 18:43:02,978 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 18:43:02,979 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 18:43:05,078 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 18:43:05,078 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 18:43:17,539 base_page.py INFO base_page open 访问网址
+2022-09-30 18:43:20,255 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 18:43:20,255 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 18:43:22,418 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 18:43:22,419 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 18:43:24,516 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 18:43:24,516 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 18:54:59,676 base_page.py INFO base_page open 访问网址
+2022-09-30 18:55:02,839 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 18:55:02,839 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 18:55:05,053 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 18:55:05,053 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 18:55:07,147 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 18:55:07,147 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 18:55:15,235 base_page.py INFO base_page click 正在点击{'/html/body/div[1]/section/main/div/aside/div/ul/li[3]/div/span', 'xpath'}元素
+2022-09-30 18:55:15,236 base_page.py INFO base_page locator 正在定位{'/html/body/div[1]/section/main/div/aside/div/ul/li[3]/div/span', 'xpath'}元素
+2022-09-30 18:55:23,259 base_page.py INFO base_page open 访问网址
+2022-09-30 18:55:25,947 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 18:55:25,947 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 18:55:28,138 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 18:55:28,139 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 18:55:30,238 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 18:55:30,239 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 19:57:39,732 base_page.py INFO base_page open 访问网址
+2022-09-30 19:57:43,199 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 19:57:43,200 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 19:57:45,428 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 19:57:45,428 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 19:57:47,524 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 19:57:47,524 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 19:57:55,624 base_page.py INFO base_page click 正在点击{'/html/body/div[1]/section/main/div/aside/div/ul/li[3]/div/span', 'xpath'}元素
+2022-09-30 19:57:55,625 base_page.py INFO base_page locator 正在定位{'/html/body/div[1]/section/main/div/aside/div/ul/li[3]/div/span', 'xpath'}元素
+2022-09-30 19:58:04,547 base_page.py INFO base_page open 访问网址
+2022-09-30 19:58:07,417 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 19:58:07,418 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 19:58:09,625 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 19:58:09,625 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 19:58:11,729 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 19:58:11,729 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 19:58:53,056 base_page.py INFO base_page open 访问网址
+2022-09-30 19:58:56,346 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 19:58:56,346 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 19:58:58,626 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 19:58:58,627 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 19:59:00,730 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 19:59:00,730 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 19:59:08,847 base_page.py INFO base_page click 正在点击{'/html/body/div[1]/section/main/div/aside/div/ul/li[3]/div/span', 'xpath'}元素
+2022-09-30 19:59:08,847 base_page.py INFO base_page locator 正在定位{'/html/body/div[1]/section/main/div/aside/div/ul/li[3]/div/span', 'xpath'}元素
+2022-09-30 20:05:02,140 base_page.py INFO base_page open 访问网址
+2022-09-30 20:05:04,900 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 20:05:04,901 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 20:05:07,117 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 20:05:07,117 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 20:05:09,204 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 20:05:09,205 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 20:05:17,344 base_page.py INFO base_page click 正在点击{'xpath', '/html/body/div[1]/section/main/div/aside/div/ul/li[3]/div/span'}元素
+2022-09-30 20:05:17,344 base_page.py INFO base_page locator 正在定位{'xpath', '/html/body/div[1]/section/main/div/aside/div/ul/li[3]/div/span'}元素
+2022-09-30 20:06:18,333 base_page.py INFO base_page open 访问网址
+2022-09-30 20:06:21,399 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 20:06:21,399 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 20:06:23,615 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 20:06:23,615 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 20:06:25,716 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 20:06:25,716 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 20:07:01,835 base_page.py INFO base_page open 访问网址
+2022-09-30 20:07:04,663 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 20:07:04,663 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 20:07:06,882 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 20:07:06,882 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 20:07:08,986 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 20:07:08,986 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 20:08:48,500 base_page.py INFO base_page open 访问网址
+2022-09-30 20:08:51,831 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 20:08:51,831 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 20:08:54,080 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 20:08:54,080 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 20:08:56,181 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 20:08:56,181 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 20:11:28,991 base_page.py INFO base_page open 访问网址
+2022-09-30 20:11:32,116 base_page.py INFO base_page input_ 正在定位('id', 'account_username')元素， 输入17712345615内容
+2022-09-30 20:11:32,116 base_page.py INFO base_page locator 正在定位('id', 'account_username')元素
+2022-09-30 20:11:34,325 base_page.py INFO base_page input_ 正在定位('id', 'account_password')元素， 输入000000内容
+2022-09-30 20:11:34,326 base_page.py INFO base_page locator 正在定位('id', 'account_password')元素
+2022-09-30 20:11:36,424 base_page.py INFO base_page click 正在点击('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
+2022-09-30 20:11:36,425 base_page.py INFO base_page locator 正在定位('xpath', '//*[@id="root"]/div/div[2]/div[1]/div[2]/div/form/span/button')元素
